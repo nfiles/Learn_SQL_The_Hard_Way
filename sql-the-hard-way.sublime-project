@@ -3,7 +3,9 @@
     {
       "path": ".",
       "file_exclude_patterns": [
-        "*.sublime-*"
+        "*.sublime-*",
+        "*.db-journal",
+        "*.db"
       ]
     }
   ]
