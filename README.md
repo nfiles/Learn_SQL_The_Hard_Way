@@ -8,7 +8,7 @@ Gonna work through http://sql.learncodethehardway.org/book/ for fun and post sol
 - ~~[Exercise 1](http://sql.learncodethehardway.org/book/ex1.html)~~
 - ~~[Exercise 2](http://sql.learncodethehardway.org/book/ex2.html)~~
 - ~~[Exercise 3](http://sql.learncodethehardway.org/book/ex3.html)~~
-- [Exercise 4](http://sql.learncodethehardway.org/book/ex4.html)
+- ~~[Exercise 4](http://sql.learncodethehardway.org/book/ex4.html)~~
 - [Exercise 5](http://sql.learncodethehardway.org/book/ex5.html)
 - [Exercise 6](http://sql.learncodethehardway.org/book/ex6.html)
 - [Exercise 7](http://sql.learncodethehardway.org/book/ex7.html)
