@@ -1,6 +1,5 @@
 -- Exercise 2: Creating a Multi-Table Database
 -- http://sql.learncodethehardway.org/book/ex3.html
--- Previously written code
 
 CREATE TABLE person (
 	id         INTEGER PRIMARY KEY,

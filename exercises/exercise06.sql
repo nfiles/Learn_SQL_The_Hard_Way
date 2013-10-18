@@ -46,10 +46,12 @@ INSERT INTO person_pet (person_id, pet_id)
 	VALUES (0, 1);
 
 
--- Exercise 5: Selecting Data
--- http://sql.learncodethehardway.org/book/ex5.html
+-- Exercise 6: Select Across Many Tables
+-- http://sql.learncodethehardway.org/book/ex6.html
 
-SELECT * FROM person;
-SELECT name, age FROM pet;
-SELECT name, age FROM pet where dead = 0;
-SELECT * FROM person WHERE first_name != "Nathan";
+SELECT pet.id, pet.name, pet.age, pet.dead
+	FROM pet, person_pet, person
+	WHERE
+		pet.id = person_pet.pet_id AND
+		person_pet.person_id = person.id AND
+		person.first_name = "Priscilla";

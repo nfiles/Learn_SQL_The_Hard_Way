@@ -1,6 +1,5 @@
 -- Exercise 2: Creating a Multi-Table Database
 -- http://sql.learncodethehardway.org/book/ex3.html
--- Previously written code
 
 CREATE TABLE person (
 	id         INTEGER PRIMARY KEY,
@@ -26,7 +25,6 @@ CREATE TABLE person_pet (
 
 -- Exercise 3: Inserting Data
 -- http://sql.learncodethehardway.org/book/ex3.html
--- Previously written code
 
 INSERT INTO person (id, first_name, last_name, age)
 	VALUES (0, "Priscilla", "Files", 22);

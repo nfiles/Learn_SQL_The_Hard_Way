@@ -21,7 +21,7 @@ if [ "$#" -ge 1 ]; then
 	# exercise file to be tested
 	FILE="${DIR}/$1"
 	if [ -f "${FILE}" ]; then
-		sqlite3 -echo "${DB}" < "${FILE}"
+		sqlite3 -column -header -echo "${DB}" < "${FILE}"
 	else
 		echo "${PRE} \"${FILE}\" does not exist..."
 	fi
