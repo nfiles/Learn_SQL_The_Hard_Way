@@ -12,9 +12,9 @@ Gonna work through http://sql.learncodethehardway.org/book/ for fun and post sol
 - ~~[Exercise 5](http://sql.learncodethehardway.org/book/ex5.html)~~
 - ~~[Exercise 6](http://sql.learncodethehardway.org/book/ex6.html)~~
 - ~~[Exercise 7](http://sql.learncodethehardway.org/book/ex7.html)~~
-- [Exercise 8](http://sql.learncodethehardway.org/book/ex8.html)
-- [Exercise 9](http://sql.learncodethehardway.org/book/ex9.html)
-- [Exercise 10](http://sql.learncodethehardway.org/book/ex10.html)
+- ~~[Exercise 8](http://sql.learncodethehardway.org/book/ex8.html)~~
+- ~~[Exercise 9](http://sql.learncodethehardway.org/book/ex9.html)~~
+- ~~[Exercise 10](http://sql.learncodethehardway.org/book/ex10.html)~~
 - [Exercise 11](http://sql.learncodethehardway.org/book/ex11.html)
 - [Exercise 12](http://sql.learncodethehardway.org/book/ex12.html)
 - [Exercise 13](http://sql.learncodethehardway.org/book/ex13.html)
