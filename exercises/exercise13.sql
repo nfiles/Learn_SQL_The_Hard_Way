@@ -206,7 +206,7 @@ WHERE purchased_on > date('2004-01-01');
 -- Write a query that can find the pets that are children of a given pet.
 -- Again look at the pet.parent to do this. It's actually easy so don't over think it.
 
-SELECT *
+SELECT id, name, breed, dob, parent
 FROM pet
 WHERE parent IN (
     SELECT id
