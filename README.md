@@ -19,7 +19,7 @@ Gonna work through http://sql.learncodethehardway.org/book/ for fun and post sol
 - ~~[Exercise 12](http://sql.learncodethehardway.org/book/ex12.html)~~
 - ~~[Exercise 13](http://sql.learncodethehardway.org/book/ex13.html)~~
 - ~~[Exercise 14](http://sql.learncodethehardway.org/book/ex14.html)~~
-- [Exercise 15](http://sql.learncodethehardway.org/book/ex15.html)
+- ~~[Exercise 15](http://sql.learncodethehardway.org/book/ex15.html)~~
 - [Exercise 16](http://sql.learncodethehardway.org/book/ex16.html)
 - [Exercise 17](http://sql.learncodethehardway.org/book/ex17.html)
 - [Exercise 18](http://sql.learncodethehardway.org/book/ex18.html)
